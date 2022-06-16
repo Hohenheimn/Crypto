@@ -1,0 +1,470 @@
+
+@media screen and (max-width: 1601px) {
+	.crypto-header .text-container{padding-bottom: 85px;}
+	
+	.crypto-header{margin-top: 80px;}
+
+	.article-wrapper{padding-left: 48px; width: 90%;}
+
+}
+
+@media screen and (max-width: 1440px) {
+ 
+}
+
+@media screen and (max-width: 1366px) {
+	.article-wrapper{padding-left: 48px; width: 90%;}
+
+	.pageheader h1 {font-size: 30px; line-height: 36px;}
+
+	.crypto-header .backgrounds{top: unset; bottom: 0; height: 100%; object-position: top;}
+
+	.crypto-header .backgrounds.back{object-position: top; bottom: 0%;}
+
+	.crypto-header .backgrounds.front{object-position: top; height: 90%;}
+
+	.crypto-header .text-container{padding: 25px; left: 6.5%; max-width: 550px; padding-bottom: 85px;}
+
+	.crypto-header .girl{left: calc(550px + 12%); width: 9%;}
+
+	.crypto-header .text-container h1{font-size: 45px;}
+
+	.crypto-header .text-container a{font-size: 17px;}
+
+	.crypto-header .text-container a{padding: 15px 50px;}
+
+	.crypto-header .boy{width: 20%; right: 10%;}
+
+	.crypto-header .cripto-left{left: 10%; width: 150px;}
+
+	.crypto-header .cripto-right{right: 10%; width: 120px;}
+
+	.crypto-header .bankBanner{right: 15%;}
+
+	.crypto-header .road{height: 150px;}
+
+	.crypto-header .bankBanner{bottom: 140px; height: 300px;}
+	
+	
+
+
+}
+
+
+@media screen and (max-width: 1280px) {
+	.speakers ul li article {padding-left: 0; margin-top: 10px;}
+	.greenbg ul li a {font-size: 20px; line-height: 24px;}
+	.greenbg .pagewrapper ul.select-location li select {width: 300px;}
+	.bluebg .pagewrapper ul.segments li a {font-size: 18px; line-height: 24px; padding: 15px;}
+	.bluebg .pagewrapper ul.location-list li select, .projdet .pagewrapper .projects-list .projhead ul.segment-list li select {width: 280px}
+
+	.img-full-container .container .text-container{width: 50%;}
+}
+
+
+
+@media screen and (max-width: 1025px){
+	.crypto-header{height: 70vh;}
+	.article-wrapper{padding-left: 48px;}
+	.crypto-header .backgrounds.front{height: 95%; object-fit: cover;}
+	.crypto-header .backgrounds.back{object-fit: cover; bottom: -10%;}
+	.footer-readmore .container{padding: 50px;}
+	.footer-readmore{padding: 60px 0;}
+	.crypto-header .text-container{ transform: translateY(-50%);
+		background-color: rgba(255, 255, 255, 0.777); 
+	}
+	.crypto-header .girl{left: 5%;}
+	.crypto-header .girl .g{width: 100%;}
+	.crypto-header .girl .effect{top: -20%; left: 80%;}
+
+	
+
+	.top-section .header-container header aside {width: 140px}
+	.top-section .header-container header nav.main {padding-left: 140px;}
+	.top-section .header-container header nav.main ul li a {font-size: 14px;}
+	.top-section .header-container img {width: 90%}
+	.community-section .pagewrapper .cli-communities h2 {font-size: 40px; line-height: 46px; height: 65px;}
+	.community-section .pagewrapper h3 {font-size: 30px; line-height: 36px; margin-bottom: 20px;}
+	.community-section .pagewrapper .communities-list li {width: 100%; height: 250px; position: relative;}
+	.community-section .pagewrapper .communities-list li a {width: 30%; position: absolute; top: 0;}
+	.community-section .pagewrapper .communities-list li a + .desc-casamira, .community-section .pagewrapper .communities-list li a + .desc-premier, .community-section .pagewrapper .communities-list li a + .desc-garden {display: block; position: relative; bottom: auto; top: 0; width: 100%; left: auto; padding-left: 35%;}
+	.community-section .pagewrapper .communities-list li a + .desc-casamira h4, .community-section .pagewrapper .communities-list li a + .desc-premier h4, .community-section .pagewrapper .communities-list li a + .desc-garden h4 {font-size: 36px; line-height: 42px; margin-bottom: 15px;}
+	.community-section .pagewrapper .cli-communities {padding-bottom: 25px;}
+	.community-section .pagewrapper .communities-list li a aside .segment-logo {display: block;}
+	.community-section .pagewrapper .communities-list li a aside .segment-name {display: none;}
+	.community-section .pagewrapper .events .live-events, .community-section .pagewrapper .events .happening-now {width: 100%;}
+	.community-section .pagewrapper .events .live-events h2 {font-size: 36px; line-height: 42px;}
+	.community-section .pagewrapper .events .live-events div.featured .details h3 {font-size: 40px; line-height: 46px;}
+	.community-section .pagewrapper .events .happening-now ul li {width: 45%; align-content: flex-start; -webkit-align-content: flex-start;}
+	.community-section .pagewrapper .events .happening-now ul li .thb, .community-section .pagewrapper .events .happening-now ul li .event-details {width: 100%; position: relative;}
+	.community-section .pagewrapper .events .happening-now ul li .thb {margin-bottom: 20px;}
+	footer .footertop .footer-logo {width: 20%;}
+	
+	footer .footertop .links-newsletter .footer-links li {font-size: 14px; line-height: 20px; margin-bottom: 15px;}
+	footer .footertop .links-newsletter .newsletter-socials {margin-top: 0; margin-bottom: 25px;}
+	footer .footerbot ul {font-size: 14px; line-height: 20px;}
+	.pageheader {height: 95px;}
+	.about-homefest .overview article p {font-size: 18px; line-height: 24px;}
+	.about-homefest .communities ul li a h4 {font-size: 20px; line-height: 26px; bottom: 20px;}
+	.speakers h3, .about-homefest .communities h2 {font-size: 30px; line-height: 36px;}
+	.greenbg .pagewrapper ul {margin-top: 10px;}
+
+	.bluebg .pagewrapper h1 {width: 100%; margin-right: 0; text-align: center;}
+	.bluebg {height: auto!important; padding-bottom: 15px;}
+	.bluebg .pagewrapper ul.segments {width: 100%; justify-content: center; -webkit-justify-content: center; margin: 15px 0 10px;}
+	.bluebg .pagewrapper ul.segments li {margin: 0 5px;}
+	.projects-segment article ul.filter li:first-child h4 {font-size: 16px; line-height: 22px;}
+	.projects-segment article ul.filter li:first-child {width: 120px;}
+	.projects-segment article ul.filter li:last-child {padding-left: 120px;}
+	.projects-segment article ul.filter li:last-child select {font-size: 16px; line-height: 22px; height: 40px; background-size: 30px auto;}
+	.projdet .pagewrapper .projects-list .projhead ul.segment-list {width: 100%; justify-content: center; -webkit-justify-content: center;}
+	.bluebg .pagewrapper ul.location-list {width: 100%; justify-content: center; -webkit-justify-content: center; margin-top: 5px;}
+	.projdet .pagewrapper .about-project article p {font-size: 16px; line-height: 22px;}
+	.bluebg .pagewrapper ul.location-list li select, .projdet .pagewrapper .projects-list .projhead ul.segment-list li select {height: 40px; padding: 10px 15px;}
+	.projdet .pagewrapper .projects-list .projhead h3 {width: 100%; text-align: center; margin-bottom: 5px;}
+
+	.crypto-header .boy{bottom: 0; width: 25%; right: 5%;}
+
+	.crypto-header .cripto-left{left: 5%;}
+
+	.crypto-header .cripto-right{right: 5%;}
+
+	
+	.img-full-container .container .text-container{padding: 20px;}
+
+	
+
+}
+@media only screen and (max-width: 940px){
+	.top-section .pagewrapper2 ul {height: auto;}
+	.top-section .pagewrapper2 ul li {width: 33%; padding: 8px 0; justify-content: center; }
+	.top-section .header-container header nav.main ul li {display: none;}
+	.top-section .header-container header nav.main ul li:last-child {display: block;}
+	.top-section .header-container header nav.main {width: auto; float: right;}
+	.top-section .header-container header aside {width: 100%; z-index: 1;}
+	.top-section .header-container header button.mobnav  {display: block;}
+	.greenbg .pagewrapper ul.select-location li h4 {font-size: 16px; line-height: 22px;}
+	.greenbg .pagewrapper ul.select-location li select {height: 44px; width: 250px;}
+	.projdet .pagewrapper .project-details article .contactinfo h2, .projdet .pagewrapper .projects-list .projhead h3 {font-size: 24px; line-height: 30px}
+
+	.crypto-header .text-container{top: 30%; transform: translate(0);}
+
+	.img-full-container{padding-bottom: 150px;}
+	
+
+}	
+
+@media only screen and (max-width: 800px){
+	.top-section .pagewrapper2 ul {padding: 0 15px;}
+	.pageheader {height: 70px;}
+	.pageheader h1 {font-size: 30px; line-height: 36px;}
+	.about-homefest .communities ul li {width: 30%;}
+	.greenbg ul li a {font-size: 16px; line-height: 22px;}
+	.pageheader h1 {margin-right: 40px;}
+	.greenbg .pagewrapper ul li {margin-right: 20px;}
+	.lifestyle-talks .talks ul li, .lifestyle-talks .list-contact ul li {width: 48%;}
+	.lifestyle-talks .talks ul, .lifestyle-talks .list-contact ul {justify-content: space-between; -webkit-justify-content: space-between;}
+	.projects-segment aside, .projects-segment aside .featured-projects li {height: auto!important; width: 100%;}
+	.projects-segment aside .featured-projects li img {object-fit: initial!important; height: auto!important}
+	.projects-segment article {width: 100%;}
+	.projects-segment article ul.filter li:last-child {padding-left:150px;}
+	.projects-segment article ul.filter li:first-child {width: 150px;}
+	.projects-segment article .list-projects ul {height: auto!important; overflow-y: initial!important;}
+	.projects-segment article .list-projects {height: auto!important;}
+	.bluebg .pagewrapper ul.location-list li h4, .bluebg .pagewrapper ul.location-list li select, .projdet .pagewrapper .projects-list .projhead ul.segment-list li select, .projdet .pagewrapper .projects-list .projhead ul.segment-list li h4 {font-size: 16px; line-height: 22px;}
+	.crypto-header .girl .effect{top: -10%; left: 70%;}
+
+	.crypto-header .text-container h1{font-size: 38px;}
+	.crypto-header .text-container p{font-size: 18px;}
+
+	.img-full-container{width: 95%;}
+
+	.article-wrapper .img-container{align-items: center;}
+
+}	
+
+@media only screen and (max-width: 770px) {
+	.article-wrapper{padding-left: 0;}
+	.img-full-container .container{width: 100%; max-width: unset;}
+	.img-full-container .container .img-container{width: 44%;}
+	.img-full-container .container .img-container img{position: static;}
+	.img-full-container .container .text-container{width: 52%; padding: 20px;}
+	.article-wrapper .text-container{width: 48%;}
+	.crypto-header .text-container{left: 4%; padding-bottom: 30px; bottom: unset;}
+	.crypto-header{height: 72vh;}
+	.img-full-container{padding-bottom: 0;}
+	.img-full-container img{height: 90%; top: 15%;}
+
+
+	.community-section .pagewrapper .communities-list li a + .desc-casamira h4, .community-section .pagewrapper .communities-list li a + .desc-premier h4, .community-section .pagewrapper .communities-list li a + .desc-garden h4 {font-size: 24px; line-height: 30px;}
+	footer .footertop .links-newsletter {padding-left: 0;}
+	footer .footertop .footer-logo {width: 100%; position: relative; justify-content: center; -webkit-justify-content: center; margin-bottom: 20px;}
+	footer .footertop .footer-logo img {width: 180px; height: auto;}
+	.speakers ul li article h5, .speakers ul li article p {font-size: 14px; line-height: 20px;}
+	.speakers h3, .about-homefest .communities h2 {font-size: 26px; line-height: 32px;}
+	.about-homefest .overview article p {font-size: 16px; line-height: 22px;}
+	.about-homefest .communities ul li a h4 {font-size: 18px; line-height: 24px;}
+	.greenbg {height: auto;}
+	.greenbg .pagewrapper h1 {width: 100%; margin-bottom: 20px; margin-right: 0; text-align: center;}
+	.greenbg .pagewrapper ul, .greenbg .pagewrapper ul.select-location {width: 100%; justify-content: center; -webkit-justify-content: center; margin: 10px 0;}
+	.greenbg .pagewrapper ul li {margin: 0 10px;}
+	.greenbg .pagewrapper ul.select-location {position: relative; z-index: 50; margin-top: -10px;}
+
+	.projdet .pagewrapper .project-details aside, .projdet .pagewrapper .project-details article {width: 100%;}
+	.projdet .pagewrapper .project-details aside {margin-bottom: 30px;}
+	.projdet .pagewrapper .project-details article h3{ padding: 0 20%; }
+	.projdet .pagewrapper .about-project aside, .projdet .pagewrapper .about-project article {width: 100%;}
+	.projdet .pagewrapper .about-project aside {margin-bottom: 30px;}
+	.projdet .pagewrapper .project-details article .contactinfo h4, .projdet .pagewrapper .project-details article .contactinfo p {font-size: 16px; line-height: 22px;}
+
+	.crypto-header .cripto-left{width: 15%;}
+
+	.crypto-header .cripto-right{width: 15%;}
+
+	.crypto-header .bankBanner{height: 300px;}
+
+	.crypto-header .girl{width: 12%;}
+
+	.crypto-header .boy{width: 35%;}
+
+	.crypto-header .backgrounds.front{height: 80%;}
+
+	.crypto-header .backgrounds.back{bottom: 0; object-position: right; height: 90%;}
+
+	.crypto-header .backgrounds{object-fit: cover;}
+	
+
+}
+
+@media only screen and (max-width: 640px) {
+	.img-full-container{margin-top: 70px;}
+	.crypto-header .text-container a{display: inline-block;}
+	.crypto-header{height: calc(88vh - 80px); }
+	.quote-card{padding: 0;}
+	.sponsored-by{margin-bottom: 0;}
+	.article-wrapper, .sponsored-by, .section-3-wrapper .img-full-container{padding-left: 25px; padding-right: 25px;}
+	.sponsored-by{width: 95%;}
+	
+	.article-wrapper .text-container{width: 100%; order: 1 !important;}
+	.article-wrapper .img-container{order: 2 !important;}
+	.section-3-wrapper{margin: 0;}
+	.wapp-section-5-wrapper{margin: 0;}
+
+	.img-full-container .container{width: 95%;}
+	.sponsored-by img{width: 120px;}
+	.footer-readmore .container .img-container{width: 100%; margin-bottom: 30px;}
+	.footer-readmore .container .text-container{width: 100%;}
+
+	.community-section .pagewrapper .cli-communities h2 {margin-left: -75px; font-size: 30px; line-height: 36px; height: 60px;}
+	.community-section .pagewrapper .communities-list li {height: auto;}
+	.community-section .pagewrapper .communities-list li a + .desc-casamira, .community-section .pagewrapper .communities-list li a + .desc-premier, .community-section .pagewrapper .communities-list li a + .desc-garden {min-height: 200px;}	
+	footer img {width: 35px; height: 35px;}
+	footer .footertop .links-newsletter .footer-links, footer .footertop .links-newsletter .newsletter-socials {width: 100%;}
+	footer .footertop .links-newsletter .footer-links {justify-content: center;}
+	footer .footertop .links-newsletter .footer-links li {justify-content: center; width: auto; border-right: solid 1px  #0676b8; padding: 0 10px; }
+	footer .footertop .links-newsletter .footer-links li:last-child {border-right: 0; order: 7}
+	footer .footertop .links-newsletter .footer-links li:nth-child(2) {order: 2}
+	footer .footertop .links-newsletter .footer-links li:nth-child(3) {order: 3}
+	footer .footertop .links-newsletter .footer-links li:nth-child(4) {order: 4}
+	footer .footertop .links-newsletter .footer-links li:nth-child(5) {order: 5}
+	footer .footertop .links-newsletter .footer-links li:nth-child(6) {order: 6}
+	footer .footertop .links-newsletter .newsletter-socials .newsletter {padding: 10px 10% 0;}
+	footer .footertop .links-newsletter .newsletter-socials h4 {text-align: center;}
+	footer .footertop .links-newsletter .newsletter-socials .social {justify-content: center;}
+	footer .footertop .links-newsletter .newsletter-socials .social li {margin: 0 10px;}
+	footer .footerbot img {width: auto; height: auto;}
+	footer .footerbot ul {justify-content: center; -webkit-justify-content: center; }
+	footer .footerbot ul li {width: 50%; }
+	footer .footerbot ul li:first-child {justify-content: flex-start; -webkit-justify-content: flex-start;}
+	footer .footerbot ul li:nth-child(2) {justify-content: flex-end; -webkit-justify-content: flex-end;}
+	footer .footerbot ul li:last-child {justify-content: center; -webkit-justify-content: center;}
+	footer .footerbot ul li:last-child {width: 100%;}
+	.about-homefest .communities ul li, .about-homefest .overview article, .about-homefest .overview aside {width: 100%; margin-bottom: 25px;}
+	.about-homefest .communities ul {padding: 0 25%;}
+	.about-homefest .overview aside {padding: 0 10%; margin-bottom: 0;}
+	.about-homefest .overview article h2 {max-width: 250px;}
+	.speakers ul li {width: 100%;}
+	.speakers ul {padding: 0 15%; margin-bottom: 20px;}
+	.pageheader h1 {font-size: 24px; line-height: 30px;}
+	.lifestyle-talks {padding: 40px 0;}
+	.lifestyle-talks .talks ul li, .lifestyle-talks .list-contact ul li {width: 100%;}
+	.bluebg .pagewrapper ul.segments li a {height: 50px; float: left; margin-bottom: 10px;}
+	.bluebg .pagewrapper ul.segments {margin:0;}
+	.bluebg {padding-bottom: 0}
+	.featured-projects .slick-prev, .featured-projects .slick-next {width: 23px!important; height: 40px!important; background-size: contain;}
+	.featured-projects .slick-dots li button, .slick-dots li.slick-active button:before {width: 15px!important; height: 15px!important;}
+	.projdet .pagewrapper .project-details article h3 {padding: 0;}
+	.bluebg .pagewrapper ul.location-list {margin-bottom: 10px;}
+	.projdet .pagewrapper .project-details aside h4 {font-size: 20px; line-height: 26px;}
+	.projdet .pagewrapper .project-details aside h3 {font-size: 24px; line-height: 30px;}
+	.projdet .pagewrapper .project-details article .contactinfo h2, .projdet .pagewrapper .projects-list .projhead h3 {font-size: 20px; line-height: 26px;}
+
+	.crypto-header .girl{width: 60px; height: auto;}
+
+	.article-wrapper .text-container h1{font-size: 24px;}
+	.section-3-wrapper .section-3-container .wapp-section-3-text h1{font-size: 24px;}
+	.wapp-section-5-wrapper .wapp-section-5-container h1{font-size: 24px;}
+	.wapp-section-5-wrapper .wapp-section-5-container{margin: 25px 0;}
+
+	.img-full-container .container .text-container{width: 100%; margin-top: 20px;}
+	.img-full-container{padding-bottom: 0;}
+
+	.img-full-container .container .text-container h1{font-size: 24px;}
+
+	.footer-readmore .container .text-container h1{font-size: 24px;}
+	.footer-readmore .container .text-container h5{font-size: 16px;}
+
+	.crypto-header .text-container{left: 5%;}
+
+	.crypto-header .text-container .dl-pdf{margin-top: 40px;}
+
+	.crypto-header .bankBanner{height: 200px;}
+
+	.img-full-container .container .img-container{width: 100%; order: 2; margin-top: 20px;}
+	.img-full-container .container .img-container img{width: 80%; margin: auto; position: static;}
+
+	.img-full-container img{display: none;}
+	.img-full-container .container .img-container img{display: inline-block;}
+
+	.img-full-container .container{flex-wrap: wrap;}
+
+	.img-full-container{padding-bottom: 0;}
+
+
+
+}
+@media only screen and (max-width: 480px) {
+	.img-full-container .container{width: 100% !important; padding: 0 !important;}
+	.article-wrapper .mid img{width: 100%;}
+	.img-full-container .container .img-container img{width: 100%;}
+	.crypto-header{margin-top: 60px;}
+	.article-wrapper, .sponsored-by, .section-3-wrapper, .img-full-container{ padding-left: 15px; margin-bottom: 50px; padding-right: 10px;}
+	.section-3-wrapper{margin-bottom: 50px !important;}
+	.img-full-container{margin-top: 0;}
+	.footer-img{height: auto;}
+	.footer-img img.desktop{ display: none;}
+	.footer-img img.mobileFooter{display: inline-block; width: 100%; height: auto;}
+
+	.article-wrapper{width: 100% !important; padding: 0 !important;}
+
+	.article-wrapper .img-container{width: 90%; margin: auto; padding-left: 15px; padding-right: 10px;}
+
+	.article-wrapper .text-container{width: 90%; padding-left: 15px; padding-right: 10px; margin: auto; margin-top: 30px;}
+
+	.article-wrapper .img-container.quote-Image{width: 100% !important; padding: 0;}
+
+	.community-section .pagewrapper .cli-communities h2  {font-size: 30px; line-height: 36px; margin-left: -65px;}
+	
+	.community-section .pagewrapper .events .live-events h2 {font-size: 26px; line-height: 32px; height: 50px;}
+
+	.community-section .pagewrapper .events .live-events div.featured .action li {height: 100%; padding-bottom: 30px; align-content: center;}
+
+	.community-section .pagewrapper h3 {font-size: 24px; line-height: 30px;}
+
+	.community-section .pagewrapper .events .live-events div.featured .action li a {margin-bottom: 20px;}
+
+	.community-section .pagewrapper .communities-list li a + .desc-casamira, .community-section .pagewrapper .communities-list li a + .desc-premier, .community-section .pagewrapper .communities-list li a + .desc-garden {padding-left: 0; min-height: auto;}
+
+	.community-section .pagewrapper .communities-list li a {position: relative; width: 50%;  margin: 0 auto 20px;}	
+
+	.community-section .pagewrapper .communities-list li a + .desc-casamira h4, .community-section .pagewrapper .communities-list li a + .desc-premier h4, .community-section .pagewrapper .communities-list li a + .desc-garden h4 {font-size: 20px; line-height: 26px;}
+	
+	.community-section .pagewrapper .communities-list li  {margin-bottom: 20px;}
+	
+	.community-section .pagewrapper .events .live-events div.featured .details h3 {font-size: 30px; line-height: 36px}
+	
+	.community-section .pagewrapper .events .happening-now ul li {width: 100%;}
+	
+	.speakers ul {padding: 0 10%; margin-bottom: 20px;}
+	
+	.about-homefest .communities ul {padding: 0 15%;}
+	
+	.about-homefest .overview aside {padding: 0;}
+	
+	.speakers h3, .about-homefest .communities h2 {font-size: 24px; line-height: 30px;}
+	
+	.greenbg .pagewrapper ul li {width: 100%; margin-bottom: 20px; justify-content: center; -webkit-justify-content: center; }
+	
+	.pageheader h1 {margin-bottom: 10px}
+	
+	.greenbg .pagewrapper ul.select-location li h4 {margin: 0!important;}
+	
+	.greenbg .pagewrapper ul.select-location li {margin-bottom: 5px;}
+	.projects-segment article ul.filter {height: auto;}
+	.projects-segment article ul.filter li:first-child {width: 100%; left: 0; text-align: center; position: relative;}
+	.projects-segment article ul.filter li:last-child {padding-left: 0;}
+
+	.crypto-header .text-container{padding: 20px 20px; top: 20%; background-color: rgba(255, 255, 255, 0.777);}
+	.crypto-header .text-container h1{font-size: 24px;}
+	.crypto-header .text-container h5{font-size: 18px;}
+	.crypto-header .text-container p{font-size: 16px; line-height: 22px;}
+	.crypto-header .text-container a{padding: 10px 20px; font-size: 14px;}
+	.crypto-header .text-container .dl-pdf{margin-top: 30px;}
+	
+	.crypto-header .boy{width: 40%;}
+	.crypto-header .girl{width: 12%;}
+
+	.crypto-header .cripto-right{top: 15%; width: 80px;}
+	.crypto-header .cripto-left{top: 10%; width: 80px;}
+	.crypto-header .girl{bottom: 0;}
+
+	.crypto-header .road{height: 100px;}
+
+	.crypto-header .bankBanner{height: 150px; bottom: 90px;}
+
+	.eco-header-demo{height: 61px;}
+
+	
+	
+}
+@media only screen and (max-width: 320px) {
+	.sponsored-by img{height: 40px;}
+}
+
+@media (min-height: 1366px) and (min-width: 1024px){
+	.crypto-header .text-container{bottom: unset !important; top: 35% !important;}
+
+	.crypto-header .cripto-left{width: 200px !important;}
+
+	.crypto-header .cripto-right{width: 150px !important;}
+
+	.crypto-header .boy{width: 350px !important;}
+
+	.crypto-header .girl{width: 120px !important;}
+
+	.crypto-header .bankBanner{width: 400px !important;}
+
+	.crypto-header .road{height: 250px !important;}
+
+	.crypto-header .bankBanner{bottom: 240px !important;}
+
+	.crypto-header .hex-grf{bottom: 50% !important; top: unset; width: 70% !important;}
+
+	.crypto-header .backgrounds.front{height: 80% !important;}
+
+	.crypto-header .backgrounds.back{height: 90% !important; bottom: 0 !important; object-fit: right !important;}
+}
+
+@media (min-height: 1024px) and (min-width: 1366px){
+	.crypto-header .cripto-left{width: 200px !important;}
+	.crypto-header .cripto-right{width: 180px !important;}
+	.crypto-header .hex-grf{top: 30% !important; }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 768px) and (orientation:portrait) {
+}
+
+@media(max-width: 380px){
+	.img-full-container img{top: 100px;}
+}
+
+/*@media only screen and (min-device-width: 1024px) and (max-device-width: 1024px) and (orientation:portrait) {
+	.hero article, .hero article.bgdesktop, .alpina-overview .pagewrapper2 article, .inquire,
+	.hero-inside article, .hero-inside article.bgdesktop {background-attachment: initial!important;}
+}
+
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 1366px) and (orientation:portrait) and (orientation:landscape) {
+	.hero article, .hero article.bgdesktop, .alpina-overview .pagewrapper2 article, .inquire,
+	hero-inside article, .hero-inside article.bgdesktop {background-attachment: initial!important;
+}*/
